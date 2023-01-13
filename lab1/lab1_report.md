@@ -129,6 +129,7 @@ add disabled=no interface=bridge20
 /system identity
 set name=SW01.L3.01.TEST
 ```
+![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab1/pics/sw1.jpg)
 ***
 
 **Свитч SW02.L3.01.TEST:**
@@ -150,6 +151,8 @@ add disabled=no interface=bridge10
 /system identity
 set name=SW02.L3.01.TEST
 ```
+
+![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab1/pics/sw2.jpg)
 ***
 
 **Свитч SW02.L3.02.TEST:**
@@ -171,3 +174,5 @@ add disabled=no interface=bridge20
 /system identity
 set name=SW02.L3.02.TEST
 ```
+
+![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab1/pics/sw3.jpg)
