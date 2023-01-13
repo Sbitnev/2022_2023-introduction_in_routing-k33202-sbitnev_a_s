@@ -71,8 +71,13 @@ topology:
 ```
 
 ***
+#### **3** Результат запуска lab1.yaml:
 
-#### **3** Текст конфигураций для каждого сетевого устройства:
+![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab1/pics/clab.jpg)
+
+***
+
+#### **4** Текст конфигураций для каждого сетевого устройства:
 
 **Роутер R01.TEST:**
 ```
@@ -176,3 +181,12 @@ set name=SW02.L3.02.TEST
 ```
 
 ![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab1/pics/sw3.jpg)
+
+***
+
+#### **5** Результаты пингов, проверки локальной связности:
+
+![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab1/pics/ping.jpg)
+
+### **Вывод:**
+В результате работы был установлен ContainerLab и методами работы с ним, была изучена работа VLAN и IP адресации.
