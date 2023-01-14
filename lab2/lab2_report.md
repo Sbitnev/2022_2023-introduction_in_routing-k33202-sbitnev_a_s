@@ -148,7 +148,7 @@ add distance=1 dst-address=192.168.30.0/24 gateway=10.10.3.2
 /system identity
 set name=R01.FRT
 ```
-![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab2/pics/frl.jpg)
+![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab2/pics/frt.jpg)
 
 **PC1:**
 ```
