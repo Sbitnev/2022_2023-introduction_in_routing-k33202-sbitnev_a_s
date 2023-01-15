@@ -74,7 +74,7 @@ topology:
     - endpoints: ["R01.BRL:eth3", "PC3:eth3"]
 ```
 
-#### **3** Результат запуска lab1.yaml:
+#### **3** Результат запуска lab2.yaml:
 
 ![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab2/pics/clab.jpg)
 
