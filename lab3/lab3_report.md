@@ -75,7 +75,7 @@ topology:
     - endpoints: ["R01.NY:eth3", "SGI_Prism:eth3"]
 ```
 
-#### **3** Результат запуска lab1.yaml:
+#### **3** Результат запуска lab3.yaml:
 
 ![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab3/pics/clab.jpg)
 
