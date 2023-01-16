@@ -1,4 +1,4 @@
-name: netlab3
+name: lab3
 mgmt:
   network: statics
   ipv4_subnet: 172.20.20.0/24
