@@ -91,7 +91,7 @@ topology:
 ```
 #### **3** Результат запуска lab4.yaml:
 
-![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab4/pics/clab.jpg)
+![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab4/pics/clab4.jpg)
 
 ### **Первая часть:**
 
