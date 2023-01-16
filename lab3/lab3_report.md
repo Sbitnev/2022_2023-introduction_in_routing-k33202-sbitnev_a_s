@@ -77,7 +77,7 @@ topology:
 
 #### **3** Результат запуска lab3.yaml:
 
-![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab3/pics/clab.jpg)
+![](https://github.com/Sbitnev/2022_2023-introduction_in_routing-k33202-sbitnev_a_s/blob/main/lab3/pics/clab3.jpg)
 
 #### **4** Текст конфигураций для каждого сетевого устройства:
 
